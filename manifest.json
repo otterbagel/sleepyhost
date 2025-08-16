@@ -1,0 +1,10 @@
+{
+  "Name": "Sleepy Host (Multiplayer Server)",
+  "Author": "Bagel",
+  "Version": "1.0.0",
+  "Description": "A simple mod used to mimic Minecraft server-like behavior. Host will automatically lie in bed at the start of the day, and will automatically sleep when all other players have gone to sleep (or the day ends).",
+  "UniqueID": "bagel.sv.sleepyhost",
+  "EntryDll": "SleepyHost.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
