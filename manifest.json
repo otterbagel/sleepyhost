@@ -6,5 +6,5 @@
   "UniqueID": "bagel.sv.sleepyhost",
   "EntryDll": "SleepyHost.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": [ "Nexus:36741" ]
 }
